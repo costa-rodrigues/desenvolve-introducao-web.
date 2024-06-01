@@ -1,1 +1,46 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Meus fimes favoritos:</title>
+    </head>
+    <body>
+        <H1 id="Título">Meus filmes favoritos:</H1>
+        <section>
+            <img src="https://cinema10.com.br/upload/filmes/filmes_11354_poster2extraordianrio.jpg" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Wonder">Extraordinário</a>
+            </p>
+        </section>
+        <section>
+            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/96/34/20028591.jpg" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/The_Pursuit_of_Happyness">À procura da felicidade</a>
+            </p>
+        </section>
+        <section>
+            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/07/36/20443914.jpg" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/O_Resgate_do_Soldado_Ryan">O resgate do soldado Ryan</a>
+            </p>
+        </section>
+        <section>
+            <img src="https://play-lh.googleusercontent.com/N77PUO_MDFZ9Yc3pWPEklRn4Sy0MmeXu1Tge_B6qjMUoOBsdMDqSxNfcS7onkExyCrs=w240-h480-rw" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Real_Steel">Gigantes de aço</a>
+            </p>
+        </section>
+        <section>
+            <img src="https://tm.ibxk.com.br/2019/04/30/marvel-30170759614387.jpg" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Avengers:_Endgame">Vingadores Ultimato</a>
+            </p>
+        </section>
+        <section>
+            <img src="https://cinegarimpo.com.br/wp/content/uploads/2017/02/cinegarimpo.com.br-ate-o-ultimo-homem-hacksaw-ridge-ate-o-ultimo-homem.jpg" />
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Hacksaw_Ridge">Até o último homem</a>
+            </p>
+        </section>
+        <a href="#Título">retornar ao Título</a>
+    </body>
+</html>

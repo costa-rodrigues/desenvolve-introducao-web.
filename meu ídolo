@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Meu ídolo</title>
+    </head>
+    <body>
+        <h1>Alexsandro de Souza</h1>
+        <img src="https://cdn.espn.com.br/image/wide/622_a40635a1-a3fe-36d7-849e-616d7697a9b9.jpg" />
+        <p>
+            Alexsandro de Souza (Curitiba, 14 de setembro de 1977), mais conhecido como Alex, é um treinador e ex-futebolista brasileiro que atuava como meio-campista. Atualmente comanda o Antalyaspor.
+        </p>
+        <p>
+            Ídolo de clubes como Coritiba, Palmeiras, Cruzeiro e Fenerbahçe (onde possui uma estátua em tamanho real), foi um dos jogadores mais talentosos de sua geração. Bom finalizador e excelente cobrador de faltas, possui mais de 400 gols na carreira. Também defendeu a Seleção Brasileira em 51 oportunidades, balançando as redes 12 vezes.
+        </p>
+    </body>
+    <table>
+        <thead>
+            <h2>Clubes profissionais</h2>
+            <tr>
+                <th>Clubes</th>
+
+                <th>Jogos</th>
+                
+                <th>Gols</th>
+
+                <th>Anos</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Coritiba</td>
+                
+                <td>123</td>
+                
+                <td>(32)</td>
+                
+                <td>1995-1997</td>
+
+            </tr>
+            <tr> 
+                <td>Palmeiras</td>
+                
+                <td>135</td>
+                
+                <td>(55)</td>
+                
+                <td>1997-2000</td>
+
+            </tr>
+            <tr> 
+                <td>Parma</td>
+                
+                <td>5</td>
+                
+                <td>(2)</td>
+                
+                <td>2000-2002</td>
+
+            </tr>
+            <tr> 
+                <td>Flamendo(emp.)</td>
+                
+                <td>12</td>
+                
+                <td>(3)</td>
+                
+                <td>2000</td>
+            </tr>
+            <tr> 
+                <td>Palmeiras(emp.)</td>
+                
+                <td>30</td>
+                
+                <td>(13)</td>
+                
+                <td>2001</td>
+
+            </tr>
+            <tr> 
+                <td>cruzeiro(emp.)</td>
+                
+                <td>19</td>
+                
+                <td>(4)</td>
+                
+                <td>2001</td>
+
+            </tr>
+            <tr> 
+                <td>Palmeiras(emp.)</td>
+                
+                <td>15</td>
+                
+                <td>(5)</td>
+                
+                <td>2002</td>
+
+            </tr>
+            <tr> 
+                <td>Cruzeiro</td>
+                
+                <td>92</td>
+                
+                <td>(58)</td>
+                
+                <td>2002-2004</td>
+
+            </tr>
+            <tr> 
+                <td>Fenerbahçe</td>
+                
+                <td>378</td>
+                
+                <td>(185)</td>
+                
+                <td>2004-2012</td>
+
+            </tr>
+            <tr> 
+                <td>Coritiba</td>
+                
+                <td>86</td>
+                
+                <td>(38)</td>
+                
+                <td>2013-2014</td>
+
+            </tr>
+            
+        </tbody>
+        <table>
+            <thead>
+                <h2>Títulos na carreira</h2>
+                <tr>
+                    <th>Título</th>
+    
+                    <th>Clube/Seleção</th>
+                    
+                    <th>Quantidade</th>
+    
+                    <th>Temporadas</th>
+    
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Copa Mercosul</td>
+                    
+                    <td>Palmeiras</td>
+                    
+                    <td>(1)</td>
+                    
+                    <td>1998</td>
+    
+                </tr>
+                <tr> 
+                    <td>Copa do Brasil</td>
+                    
+                    <td>Palmeiras</td>
+                    
+                    <td>(1)</td>
+                    
+                    <td>1998</td>
+    
+               
+                </tr>
+                <tr> 
+                    <td>Libertadores</td>
+                    
+                    <td>Palmeiras</td>
+                    
+                    <td>(1)</td>
+                    
+                    <td>1999</td>
+    
+                </tr>
+            </tr>
+            <tr> 
+                <td>Copa América</td>
+                
+                <td>Brasil</td>
+                
+                <td>(2)</td>
+                
+                <td>1999-2004</td>
+
+            </tr>
+        </tr>
+        <tr> 
+            <td>Pré-olímpico</td>
+            
+            <td>Brasil</td>
+            
+            <td>(1)</td>
+            
+            <td>2000</td>
+
+        </tr>
+    </tr>
+    <tr> 
+        <td>Copa Rio-São Paulo</td>
+        
+        <td>Palmeiras</td>
+        
+        <td>(1)</td>
+        
+        <td>2000</td>
+
+    </tr>
+    <tr> 
+        <td>Mineiro</td>
+        
+        <td>Cruzeiro</td>
+        
+        <td>(2)</td>
+        
+        <td>2003-2004</td>
+
+    </tr> 
+    <tr> 
+        <td>Copa do Brasil</td>
+        
+        <td>Cruzeiro</td>
+        
+        <td>(1)</td>
+        
+        <td>2003</td>
+
+    </tr>
+    <tr> 
+        <td>Brasileiro</td>
+        
+        <td>Cruzeiro</td>
+        
+        <td>(1)</td>
+        
+        <td>2003</td>
+
+    </tr>
+    <tr> 
+        <td>Campeão Turco</td>
+        
+        <td>Fenerbahçe</td>
+        
+        <td>(3)</td>
+        
+        <td>2004/2005-2006/2007-2010/2011</td>
+
+    </tr>
+    <tr> 
+        <td>Supercopa da Turquia</td>
+        
+        <td>Fenerbahçe</td>
+        
+        <td>(2)</td>
+        
+        <td>2007-2009</td>
+
+    </tr>
+    <tr> 
+        <td>Copa da Turquia</td>
+        
+        <td>Fenerbahçe</td>
+        
+        <td>(1)</td>
+        
+        <td>2012</td>
+
+    </tr>
+    <tr> 
+        <td>Paranaense</td>
+        
+        <td>Coritiba</td>
+        
+        <td>(1)</td>
+        
+        <td>2013</td>
+
+    </tr>
+                           
+            </tbody>
+            <table>
+                <thead>
+                    <h2>Seleção nacional</h2>
+                    <tr>
+                        <th>Seleção Brasileira</th>
+        
+                        <th>Jogos</th>
+                        
+                        <th>Gols</th>
+        
+                        <th>Anos</th>
+        
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Brasil Sub-20</td>
+                        
+                        <td>4</td>
+                        
+                        <td>(4)</td>
+                        
+                        <td>1995-1998</td>
+        
+                    </tr>
+                    <tr> 
+                        <td>Brasil Sub-23</td>
+                        
+                        <td>19</td>
+                        
+                        <td>(8)</td>
+                        
+                        <td>1999-2000</td>
+        
+                    </tr>
+                    <tr> 
+                        <td>Brasil</td>
+                        
+                        <td>49</td>
+                        
+                        <td>(12)</td>
+                        
+                        <td>1998-2005</td>
+        
+                    </tr>
+                               
+                </tbody>
+    </table>
+    <header>
+        <!--Ficha de identificação-->
+        </header>
+    <main>
+        <!--conteúdo exclusivo-->
+    </main>
+    <aside>
+        <h3>ficha de identificação</h3>
+        <ul>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexsandro_de_Souza.jpg/220px-Alexsandro_de_Souza.jpg" />
+            
+         <li><a href="Nome completo:">Alex de Souza</a></li>
+
+         <li><a href="Data de nascimento:">14 de setembro de 1977</a></li>
+
+         <li><a href="Local de nascimento:">Curitiba, Paraná, Brasil</a></li>
+
+         <li><a href="Nacionalidade:">Brasileiro</a></li>
+
+         <li><a href="Altura:">1,76</a></li>
+
+         <li><a href="Pé:">canhoto</a></li>
+
+         <li><a href="apelidos:">Menino de ouro, Talento Azul, Alex cabeção, Professor, Doutor, Alexotan.</a></li>
+        </ul>
+
+        </aside>
+        <h3>Carreira:</h3>
+        <h4>Coritiba</h4>
+        <p>
+            Iniciou sua carreira nas categorias de base do Coritiba, clube pelo qual tornou-se jogador profissional em 1995. Estreou no dia 2 de abril, na vitória por 3–1 diante do Iraty pelo Campeonato Paranaense, dando a primeira assistência das 356 da carreira.
+        </p>
+        <P>
+            O meia marcou seu primeiro gol no dia 7 de junho, na goleada por 4–0 diante da Sociedade Esportiva Matsubara, também no estadual. Neste ano, o clube foi vice-campeão da competição, tendo Alex, aos 17 anos, como a revelação e destaque do campeonato.
+        </P>
+        <p>
+            Também foi fundamental para a subida do Coxa Branca para a primeira divisão do Campeonato Brasileiro, quando no dia 13 de dezembro marcou um gol e deu uma assistência na vitória por 3–0 diante do rival Atlético Paranaense, na partida que garantiu o acesso a elite.
+        </p>
+        <p>
+            O "Menino de Ouro" (alcunha que ganhou por suas atuações destacadas) permaneceu no clube até 1997, quando chamou a atenção de outros clubes e recebeu propostas para sair. Pelo Coritiba, nessa primeira passagem, disputou 123 partidas, marcando 32 gols e deu 38 assistências.
+        </p>
+        <h4>Palmeiras</h4>
+        <p>
+            Alex recebeu formalmente duas propostas em mãos, ambas idênticas dos rivais paulistas Palmeiras e Corinthians. O meia fez a sua escolha e em julho de 1997 transferiu-se para o Palmeiras. Naquele contexto, o clube via se desfazer um de seus elencos mais celebrados e com o apoio da parceira Parmalat, montaria um novo grupo que também faria história no alviverde.
+        </p>
+        <p>
+            Alex obteve grande destaque e em pouco tempo tornou-se ídolo da torcida, tanto por sua categoria em campo quanto pelo profissionalismo. Logo em sua primeira temporada com a camisa do Palmeiras, foi vice-campeão brasileiro, perdendo o título para o Vasco da Gama. Ao lado de outros grandes jogadores que também marcaram época no clube como Marcos, Francisco Arce, Júnior Baiano, Cléber, Roque Júnior, Júnior, César Sampaio, Zinho, Paulo Nunes e Euller, o camisa 10 foi protagonista e enfileirou títulos.
+        </p>
+        <p>
+            Começou com as conquistas da Copa do Brasil de 1998 e da Copa Mercosul de 1998, ambas em cima do Cruzeiro. Alex brilhou na Mercosul ao marcar em todas as fases da competição, exceto na final. Após marcar três gols na fase de grupos, fez de cabeça o gol do empate por 1–1 na partida de volta das quartas de final contra o Boca Juniors da Argentina garantindo a semifinal (haviam vencido a ida por 3–1). Na semifinal, fez os dois gols da vitória por 2–0 sobre o Olimpia, do Paraguai, na partida de ida (o Palmeiras venceu a volta por 1–0 e foi campeão na final diante do Cruzeiro). Alex foi artilheiro da competição com seis gols. Foi neste ano também que veio a sua primeira convocação para a Seleção Brasileira, pelo técnico Vanderlei Luxemburgo.
+        </p>
+        <p>
+            No ano seguinte, veio a glória maior. Com grande destaque, Alex foi campeão da Libertadores de 1999 em junho, diante do Deportivo Cali, após uma vitória na disputa por pênaltis. O camisa 10 foi fundamental na inédita conquista palmeirense, com assistências e gols importantes durante a competição, como os dois marcados na vitória por 4–2, diante do Vasco, pela segunda partida das oitavas de final. Mas como momento áureo, destaca-se a semifinal diante do River Plate da Argentina, onde Alex fez os argentinos terem pesadelos com uma estupenda partida, marcando dois belos gols na vitória por 3–0 (haviam perdido a partida de ida por 1–0) e classificando a equipe para a final. Ao fim da competição e com o título assegurado, o meia foi eleito para o onze ideal da América do Sul pelo jornal uruguaio El País. Quatro dias depois, o Palmeiras faria a segunda partida da decisão do Campeonato Paulista de 1999 contra o rival Corinthians. Os jogadores do Palmeiras entraram em campo em ritmo de festa, muitos com os cabelos pintados de verde, em provocação ao rival pela conquista recente da Libertadores (O Palmeiras eliminou o Corinthians nas quartas-de-final em disputa de pênaltis antes de ser campeão). A decisão terminou empatada por 2–2, confirmando o título do Corinthians, que havia ganhado o primeiro jogo por 3–0. A partida ficou marcada bela briga generalizada, quando faltando poucos minutos para o fim, o atacante Edílson, do Corinthians, fez embaixadinhas respondendo a provocação da equipe palmeirense e ocasionando uma verdadeira batalha campal entre as equipes. Alex terminou aquele campeonato como artilheiro com 12 gols marcados.
+        </p>
+        <p>
+            Em virtude de suas atuações, Alex foi convocado para a Seleção Brasileira, disputando a Copa América de 1999 onde sagrou-se campeão e também a Copa das Confederações FIFA de 1999, onde foi vice-campeão e vice artilheiro. Em dezembro, disputou o Mundial de Clubes de 1999 contra o Manchester United, em Tóquio e mesmo Alex tendo uma atuação destacada (teve um gol mal anulado na partida) e o Palmeiras sendo melhor que o adversário, os ingleses venceram por 1–0.
+        </p>
+        <p>
+            Em 2000, iniciou a temporada com a Seleção Sub-23 e venceu o Pré-Olímpico de Londrina (classificando a equipe para as Olimpíadas de Sydney em 2000), sendo o capitão e regente da conquista ao lado de Ronaldinho Gaúcho. Pelo clube, conquistou seu último título logo depois, o do Torneio Rio-São Paulo de 2000, em final diante do Vasco. Foi o principal nome daquela conquista. Primeiro, eliminou o rival Corinthians da competição marcando os três gols da vitória por 3–1. Depois, marcou um belo gol de cobertura na semifinal diante do Botafogo. Nas finais, deu três assistências nas duas partidas e ainda fez a jogada do pênalti que fechou a goleada por 4–0 sobre o Vasco. O meia também teve a chance de vencer mais uma vez a Copa Libertadores da América, na qual contribuiu com assistências em todas as fases do mata-mata. Após o Palmeiras vencer o Peñarol e o Atlas, nas oitavas e quartas de final, respectivamente, o clube enfrentou mais uma vez o rival Corinthians em partida decisiva na competição. Alex se destacou nas duas partidas dessa semifinal, marcando um gol e dando uma assistência na derrota na primeira partida por 4–3 e mais uma vez, marcando um gol e dando uma assistência na vitória por 3–2 na segunda partida. O Palmeiras eliminou mais uma vez o rival da competição continental em disputa de pênaltis (repetindo feito do ano anterior). No jogo de ida da final, diante do Boca Juniors, Alex deu uma assistência no empate por 2–2 fora de casa. Após o 0–0 no Morumbi pelo jogo da volta, o Palmeiras foi derrotado nos pênaltis, ficando com o vice-campeonato continental.
+        </p>
+        <p>
+            Após a competição, o meia pertencente a parceria Palmeiras/Parmalat (que estava chegando ao fim) foi negociado com o Parma, clube da empresa de laticínios, por US$ 16 milhões de dólares. Somando todas as passagens pelo alviverde, Alex disputou 241 partidas, marcou 78 gols e distribuiu 56 assistências.
+        </p>
+        <h3>Parma e empréstimos</h3>
+        <h4>Flamengo</h4>
+        <p>
+            No dia 30 de junho de 2000, Alex foi anunciado pelo Parma, da Itália. Logo que chegou ao país, foi informado pelo técnico Alberto Malesani que não fazia parte dos planos dele, sendo imediatamente emprestado ao Flamengo. Como estava a serviço da Seleção Olímpica, chegou ao clube de fato somente em outubro. Entretanto, o péssimo momento político e financeiro do clube não ajudou e a equipe sequer se classificou para o mata-mata da Copa João Havelange. Alex ficou somente dois meses no clube da Gávea, fazendo apenas 12 jogos e marcando três gols pela equipe, a maioria vindo do banco de reservas. Sem receber salários durante todo o tempo de contrato e com proposta de empréstimo do Palmeiras (que estava classificado para a disputa da Libertadores do ano seguinte) em mãos, negociou sua saída, perdoou a dívida e retornou ao ex-clube.
+        </p>
+        <h4>Palmeiras</h4>
+        <p>
+            Alex regressou ao Palmeiras por empréstimo em janeiro de 2001. Lá disputou o Campeonato Paulista de 2001 e foi o artilheiro da equipe na competição com oito gols. Entretanto, o Palmeiras sequer se classificou para a fase final do torneio. Na Copa Libertadores da América de 2001, se destacou e quase ajudou a conduzir a equipe, que além de Alex, contava com Felipe, Lopes Tigrão e os ídolos Marcos e Francisco Arce, para mais uma final da competição continental, contudo, o Palmeiras caiu na semifinal diante do Boca Juniors. O camisa 10 marcou um gol no empate por 2–2 na partida de ida no La Bombonera e após a repetição do placar no Parque Antártica, o Palmeiras saiu derrotado na disputa de pênaltis, mais uma vez. No jogo de ida houve um pênalti não marcado a favor do Palmeiras e no jogo de volta um gol do Palmeiras foi mal anulado. Nas penalidades, Alex, Basílio e Arce desperdiçaram as cobranças e o Boca avançou. O meia foi o maior garçom da edição, tendo distribuído sete assistências.
+        </p>
+        <p>
+            Seu empréstimo se encerrou no fim de junho e Alex deixou o clube. Quando iria se reapresentar ao Parma novamente, descobriu que não receberia a porcentagem que lhe era de direito sobre a transferência e resolveu entrar na justiça.
+        </p>
+        <p>
+            Em seguida, foi convocado para a disputa da Copa América de 2001 com a Seleção Brasileira. Durante a competição, assinou com o Cruzeiro através de uma liminar conseguida na Justiça do Trabalho que o desvinculava do clube italiano.
+        </p>
+        <h4>Cruzeiro</h4>
+        <p>
+            Pelo Cruzeiro, disputou, sem destaque, o Campeonato Brasileiro de 2001. Além de Alex, o clube contava com outras estrelas como Edmundo e Freddy Rincón, contudo não atingiu o objetivo da temporada e quase foi rebaixado. Durante a disputa do campeonato, teve sua liminar cassada em ação de advogados do Parma algumas vezes, fato que prejudicou seu rendimento em campo. Numa partida contra o Bahia, o meia, já uniformizado no vestiário, ficou sabendo que não poderia jogar. Alex afirmaria: "Isso tudo atrapalhou bastante. Eu perdi o sono por várias noites". Ao fim daquele ano, Alex foi surpreendido com uma decisão da FIFA que o suspendia do futebol. A entidade não reconhecia a ação conseguida pelo meia, acusando-o de possuir contrato duplo e o Parma exigia a sua reapresentação. Após a desastrosa temporada e a suspensão aplicada pela FIFA, Alex foi dispensado do Cruzeiro no primeiro dia de reapresentação do grupo, pelo técnico Marco Aurélio, via telefone celular.
+        </p>
+        <p>
+            O imbróglio entre Alex e Parma passava pela família de Calisto Tanzi (fundador da Parmalat) em um caso de falsificação da assinatura do meia em um documento onde ele abriria mão de receber o que tinha direito. Aos 23 anos, Alex entrou numa verdadeira batalha com a Parmalat e com o clube na justiça italiana para receber o que tinha direito bem como para apurar sobre a falsa assinatura na documentação. Alex afirmou que por diversas vezes houve ameaças de advogados da Parmalat contra ele
+        </p>
+        <h4>Palmeiras</h4>
+        <p>
+            Após acordo firmado na FIFA com representantes do Parma, tendo a dívida reconhecida, Alex foi emprestado novamente ao Palmeiras em 2002. Foi neste ano que o meia fez o gol mais bonito de sua carreira: no clássico contra o São Paulo em partida válida pelo Torneio Rio-São Paulo de 2002, aplicou com o lado externo do pé dois chapéus consecutivos nos defensores adversários, o último deles no goleiro Rogério Ceni, antes de completar de primeira para o gol, definido naquela noite pelo locutor José Silvério, como "de placa", na vitória por 4–2 do Palmeiras no Morumbi
+        </p>
+        <p>
+            No entanto, a grande decepção de sua carreira veio em maio daquele ano. O período conturbado de Alex com o Parma e os sucessivos empréstimos que não lhe permitiram ter sequências no clubes, lhe custaram a ausência na Copa do Mundo de 2002. O meia não foi convocado pelo treinador Luiz Felipe Scolari, o que fora considerado, na opinião popular e midiática, uma das maiores injustiças do futebol. Mesmo com todo a situação, Alex sempre estivera presente na Seleção Brasileira, atuando nas Eliminatórias da Copa do Mundo e demais competições. Ademais, era o camisa 10 e parte efetiva nas conquistas do treinador Felipão quando lhe treinou no Palmeiras
+        </p>
+        <p>
+            Anos depois daria declarações sobre a ausência como: "Para mim foi péssimo, porque eu tinha absoluta certeza que iria" e "Eu joguei a maioria dos jogos, era um treinador que me conhecia, que em várias conversas deixou sempre a entender que eu participaria. Em um amistoso no Mato Grosso contra a Islândia, tive uma conversa com o Felipão no corredor, e aquela conversa me dava mais certeza de que eu jogaria o Mundial".
+        </p>
+        <p>
+            Com a decepção da não convocação, Alex, que tinha no Palmeiras a vitrine para evidenciar o seu futebol na expectativa de disputar a Copa do Mundo, se despediu do clube e retornou ao Parma. Porém, com todo o desgaste envolvendo os donos do clube, o diretor Arrigo Sacchi com o qual não tinha relação e o treinador Cesare Prandelli que não reconhecia sua presença no elenco, Alex resolveu sua situação extracampo e enfim teve o direito de deixar o clube italiano. Com o meia livre, o treinador do Cruzeiro, Vanderlei Luxemburgo, contrariando a diretoria e a torcida que não queriam o jogador, banca o seu retorno à Toca da Raposa.
+        </p>
+        <h4>Ida em definitivo para o Cruzeiro</h4>
+        <p>
+            Alex chegou ao Cruzeiro para a reta final do Campeonato Brasileiro de 2002, tendo sua renovação de contrato bancada pelo treinador Vanderlei Luxemburgo, que tamanha a confiança, chegou a afirmar que pagaria o salário do jogador do próprio bolso e devolveria o dinheiro investido pelo clube, caso Alex não emplacasse. No Cruzeiro o meia viveria a fase mais espetacular de sua carreira, no ano seguinte
+        </p>
+        <p>
+            Começou o ano de 2003 com o título do Campeonato Mineiro. Alex foi o artilheiro da equipe com nove gols, teve o maior número de assistências e foi o destaque do campeonato. Teve atuações destacadas, como na goleada por 4–2, diante do rival Atlético Mineiro, onde fez dois gols e deu duas assistências, sendo uma delas de calcanhar. Na goleada sobre o URT, partida que consagrou o time como campeão antecipadamente, fez gol e deu assistência. E no jogo da entrega das faixas, marcou três gols, sendo um de letra, na goleada por 4–0 sobre o Tupi.
+        </p>
+        <p>
+            Em seguida, foi o nome da conquista do título da Copa do Brasil de 2003. O meia foi decisivo, marcando gols e dando assistências, praticamente em toda competição. Nas quartas de final, diante do Vasco, Alex fez gol e deu assistência na vitória por 2–1 no Mineirão e garantiu o empate por 1–1, em São Januário. Na decisão diante do Flamengo, o meia faz história: Alex marcou um lindo gol de letra no empate por 1–1, na partida de ida, no Maracanã e na partida de volta deu três assistências na vitória por 3–1 no Mineirão. Alex foi o vice artilheiro da equipe com seis gols e maior assistente da competição. Retornou a Seleção Brasileira para a disputa da Copa das Confederações de 2003.
+        </p>
+        <p>
+            No Campeonato Brasileiro, Alex foi o grande responsável pela primeira conquista do clube na era de pontos corridos. Foi também o artilheiro da equipe, marcando 23 gols e o maior assistente do campeonato, com 15 assistências. Durante a competição, marcou gols antológicos como um na primeira rodada contra o São Caetano, dominando na entrada da área, com o peito, entre dois adversários, driblando o marcador e encobrindo o goleiro (ganhando inclusive uma placa no hall de entrada do Mineirão pelo feito) e outro na penúltima rodada contra o Fluminense, no Mineirão, dominando na área, fingindo que soltaria uma pancada e de costas dando um toque espetacular por cima do goleiro. Fez partidas magnificas, como a que marcou cinco gols contra o Bahia na goleada por 7–0 na Fonte Nova. Ao fim do campeonato, foi premiado com a Bola de Prata da Revista Placar como melhor meia do campeonato e também com a Bola de Ouro como melhor jogador. Além disso, foi eleito mais uma vez pelo jornal uruguaio El País para o onze ideal da América do Sul. Para muitos, Alex não foi somente o melhor jogador do Brasil naquela temporada, mas um dos melhores do mundo. Além do capitão e camisa 10, Alex, a equipe cruzeirense contava com grandes jogadores como Gomes, Maicon, Luisão, Cris, Claudio Maldonado, Deivid e Víctor Aristizábal, dentre outros jogadores de muita qualidade, comandados pelo técnico Vanderlei Luxemburgo. Ao fim da temporada, se tornou ídolo da torcida cruzeirense. O "Talento Azul", como era chamado pelos torcedores do Cruzeiro, deu uma entrevista dizendo que "quando o time entrava em campo já sabia que ia ganhar. Não era salto alto e sim confiança, devido ao empenho e qualidade de todos.", além de ter escolhido o time como o melhor em que já atuou na carreira.
+        </p>
+        <p>
+            Em 2004, iniciou a temporada levantando mais uma taça pelo Cruzeiro. O bicampeonato estadual veio diante do rival Atlético Mineiro. Alex marcou um dos gols da vitória por 3–1 na partida de ida da final (perderam a volta por 1–0), foi artilheiro do campeonato com 14 gols e mais uma vez responsável por uma conquista do clube. Contudo, o time falhou no grande objetivo da temporada, a Copa Libertadores da América de 2004. A equipe foi eliminada nas oitavas de final, numa disputa por pênaltis contra o Deportivo Cali. Alex, que marcou um gol de pênalti na vitória no tempo regular por 2–1 (haviam perdido a ida por 1–0), desperdiçou sua cobrança nas penalidades decisivas (Edu Dracena e Dudu também perderiam). O ídolo cruzeirense entraria em campo apenas mais uma vez para defender as cores do clube, na partida seguinte, fazendo o gol da vitória por 2–1 sobre o Palmeiras pelo Campeonato Brasileiro, antes de ser negociado com o Fenerbahçe, da Turquia.
+        </p>
+        <p>
+            Naquele ano, Alex seria convocado para a disputa da Copa América de 2004 pelo técnico Carlos Alberto Parreira. Foi capitão da Seleção Brasileira na competição, distribuiu seis assistências (recorde) e levantou a taça após a conquista sobre a Seleção Argentina na disputa por pênaltis.
+        </p>
+        <h4>Fenerbahçe</h4>
+        <p>
+            Em 5 de junho de 2004 foi anunciado como novo reforço do Fenerbahçe, da Turquia. Começava naquele ano, a trajetória de uma das maiores idolatrias do futebol mundial. Logo em sua primeira temporada, foi campeão da Süper Lig de 2004–05, sendo vice artilheiro do campeonato com 24 gols e apontado como o principal jogador da equipe.
+        </p>
+        <p>
+            Na temporada 2006–07, sua terceira no clube, sob o comando do então treinador Zico, que lhe transformou em capitão, conquistou novamente a Süper Lig, sendo dessa vez artilheiro do campeonato com 19 gols marcados e maior assistente. Na mesma temporada, também conquistou a Supercopa da Turquia de 2007 dando uma assistência na vitória por 2–1 sobre o Besiktas. Ainda em 2007, Alex acertou com o Borussia Dortmund, mas houve uma mudança e a negociação foi cancelada. O brasileiro também recebeu uma proposta do Birmingham, mas preferiu continuar no Fenerbahçe.
+        </p>
+        <p>
+            Já na temporada 2007–08, Alex ajudou o clube turco a fazer sua melhor campanha na história da Liga dos Campeões da UEFA, chegando às quartas de final da competição. Após a equipe vencer o Chelsea na partida de ida por 2–1, foi eliminada ao perder por 2–0 na partida de volta. O meia foi o maior assistente da competição, com seis assistências distribuídas
+        </p>
+        <p>
+            Em 2009, mais uma conquista. Alex é decisivo mais uma vez ao marcar os dois gols da vitória por 2–0 sobre o Besiktas, conquistando o título da Supercopa Turca
+        </p>
+        <p>
+            Na temporada 2010–11, sua sétima pelo clube turco, conquistou pela terceira vez a Süper Lig, sendo o artilheiro do campeonato com uma grande marca: Alex marcou 28 gols em 33 partidas e também foi o maior assistente da competição.
+        </p>
+        <p>
+            Em 2012 foi peça fundamental na conquista da Copa da Turquia, título que o Fenerbahçe não ganhava há 30 anos. No jogo da final, contra o Bursaspor, Alex foi responsável por três assistências, além de marcar um gol no segundo tempo, fechando uma goleada de 4–0.
+        </p>
+        <p>
+            Em agosto de 2012, após marcar 136 gols com a camisa do Fenerbahçe pela Liga Turca, reclamou que seu técnico Aykut Kocaman estava tirando-o dos jogos para que não se tornasse o maior artilheiro da equipe na história da Liga, superando a marca de 140 gols, estabelecida por Aykut quando este era jogador do clube.
+        </p>
+        <p>
+            No dia 15 de setembro de 2012, o ápice da sua representatividade para a torcida ganhou forma: foi inaugurada uma estátua em homenagem ao camisa 10, em frente ao estádio da equipe, eternizando-o como um dos maiores ídolos da história do clube. A estátua, que tem o tamanho real do jogador, levou dois anos para ser concluída. Ao receber a homenagem, Alex chorou e questionou: "o que eu fiz para isso?", agradecendo a torcida em seu discurso.
+        </p>
+        <p>
+            Mas com todo o imbróglio envolvendo o treinador Aykut que pouco vinha aproveitando o meia, no dia 1 de outubro de 2012, após oito anos atuando pela equipe turca, Alex foi dispensado pela diretoria do clube. Sua saída causou grande revolta e comoção na torcida que fez vigília em frente a casa do jogador pela madrugada e queimou fotos do presidente do clube.
+        </p>
+        <p>
+            Pelo Fener, disputou 378 jogos e marcou 185 gols, com 162 assistências. O meia é um dos dez maiores artilheiros da história do clube
+        </p>
+        <h4>Retorno ao Coritiba</h4>
+        <p>
+            No dia 13 de outubro de 2012, após ser recebido com festa pela torcida do Coxa no Aeroporto Internacional de Curitiba, Alex afirmou que definiria seu futuro dentro dos próximos dez dias. Já no dia 17 de outubro, confirmou o acerto por dois anos com o Coritiba, clube pelo qual se declara torcedor e que o revelara para o futebol, colocando fim na novela. Aos 35 anos, o meio-campista foi oficialmente apresentado à torcida coxa-branca no dia 18 de outubro, no Estádio Couto Pereira. Com muita festa e comemorações, mais de 5 mil torcedores compareceram para prestigiar o regresso do ídolo, que chegou de helicóptero, em plena tarde de quinta-feira.
+        </p>
+        <p>
+            No dia 12 de maio de 2013, após o Coritiba bater por 3–1 o rival Atlético Paranaense, Alex, autor de dois gols no confronto, conquistou seu primeiro título com a camisa do clube: o Campeonato Paranaense. O meia, que fora o grande nome da conquista, terminou o campeonato isolado na artilharia com 15 gols.
+        </p>
+        <p>
+            Já pelo Campeonato Brasileiro, o meia foi destaque e artilheiro da equipe coxa branca com 12 gols. Dentre esses, destacam-se o marcado na vitória por 2–1 contra o Fluminense, no Couto Pereira, em jogo válido pela 4ª rodada. Alex acertou um belo chute de fora da área e marcou o 400º gol em sua carreira. Também marcou um golaço no dia 21 de julho, num empate por 2–2 contra o Santos, na Vila Belmiro. Autor de dois gols nessa partida, no primeiro Alex encobriu o goleiro Aranha com um leve toque. Seu terceiro golaço no Brasileirão foi marcado no dia 15 de setembro, contra o Bahia, em mais um empate por 2–2. Na ocasião, o meia marcou de bicicleta e salvou o Coritiba da derrota no Couto Pereira.
+        </p>
+        <p>
+            Em 2014, ajudou o Coritiba a escapar do rebaixamento no Campeonato Brasileiro. Após a vitória sobre o Atlético Mineiro pela 37ª rodada do Brasileirão, que salvou a equipe da degola, o jogador anunciou o fim da carreira em sua conta pessoal no Twitter. Aos 37 anos, Alex se despediu do futebol, atuando pela última vez na vitória por 3–2 diante do Bahia, no Couto Pereira.
+        </p>
+        <h3>Seleção Nacional</h3>
+        <p>
+            Após ter defendido a Seleção Brasileira Sub-20 entre 1995 e 1998, Alex foi convocado pela primeira vez para a Seleção Brasileira principal pelo técnico Vanderlei Luxemburgo em 1998. Fez a sua estreia no dia 24 de setembro, num amistoso diante da Iugoslávia.
+        </p>
+        <p>
+            Marcou seu primeiro gol em 1999, num amistoso contra a Letônia. No mesmo ano foi convocado para a disputa da Copa América de 1999 onde sagrou-se campeão. Também foi convocado para a Copa das Confederações de 1999, na qual o Brasil foi vice-campeão para a Seleção Mexicana e vice artilheiro da competição com quatro gols.
+        </p>
+        <p>
+            Em 2000, iniciou a temporada a serviço da Seleção Olímpica. Como capitão, foi o destaque da campanha ao lado de Ronaldinho Gaúcho e levantou a taça de campeão do Torneio Pré-Olímpico Sul-Americano Sub-23. No entanto, nos Jogos Olímpicos daquele ano, disputados em Sydney, a Seleção decepcionou e foi eliminada por Camarões nas quartas de final, no sistema de "morte súbita"
+        </p>
+        <p>
+            No mesmo ano, disputou as Eliminatórias da Copa do Mundo de 2002 e se destacou ao marcar seu único gol na competição classificatória contra a Argentina, na vitória por 3–1 no Morumbi.
+        </p>
+        <p>
+            No ano seguinte, Alex foi convocado para a disputa da Copa América de 2001, realizada na Colômbia. Contudo, sem brilhar e de forma desastrosa, a Seleção Brasileira perdeu por 2–0 e foi eliminada nas quartas de final pela inexpressiva Seleção Hondurenha. Os hondurenhos, por sinal, aceitaram disputar o torneio na véspera de seu início, no lugar da Seleção Argentina, que não aceitou jogar a competição por conta da onda de violência no país.
+        </p>
+        <p>
+            Em 2002, Alex foi surpreendido com a ausência na lista de convocados para a Copa do Mundo de 2002. O momento conturbado que vivia com o Parma da Itália e os sucessivos empréstimos, lhe custaram a não convocação pelo técnico Felipão. Deu declarações sobre a ausência como: "Para mim foi péssimo, porque eu tinha absoluta certeza que iria" e "Eu joguei a maioria dos jogos, era um treinador que me conhecia, que em várias conversas deixou sempre a entender que eu participaria. Em um amistoso no Mato Grosso contra a Islândia, tive uma conversa com o Felipão no corredor, e aquela conversa me dava mais certeza de que eu jogaria o Mundial". Na opinião popular e midiática, o fato de Alex nunca ter disputado uma Copa do Mundo, é tido como uma das grandes injustiças do futebol.
+        </p>
+        <p>
+            Em 2003, retornou à Seleção Brasileira para a disputa da Copa das Confederações na França. No entanto, a Seleção fez a sua pior campanha na história da competição e foi eliminada na fase de grupos.
+        </p>
+        <p>
+            Em 2004, após momento espetacular vivido no Cruzeiro, foi convocado pelo técnico Carlos Alberto Parreira para a disputa da Copa América de 2004. Alex foi o capitão da campanha e levantou a taça de campeão na final diante da Argentina, vencida nos pênaltis. Também foi o líder de assistências do Brasil na competição, ao distribuir seis assistências nessa edição — uma a menos que Zizinho na Copa América de 1949, o recordista do Brasil em assistências em uma edição do torneio.
+        </p>
+        <p>
+            No ano seguinte, foi convocado para disputar a Copa das Confederações de 2005. Entretanto, após sofrer uma lesão atuando pelo Fenerbahçe, foi cortado da Seleção, com o volante Edu sendo chamado no seu lugar. Alex fez sua última partida pela Seleção Brasileira na vitória por 3–0 sobre a Venezuela, pela última rodada das Eliminatórias da Copa do Mundo de 2006. Novamente, mesmo participando das Eliminatórias, não foi convocado para a Copa do Mundo de 2006.
+        </p>
+        <p>
+            Pela Seleção Brasileira principal, Alex disputou 51 partidas, marcou 12 gols e deu 11 assistências.
+        </p>
+        <p>
+            Pela Seleção Brasileira principal, Alex disputou 51 partidas, marcou 12 gols e deu 11 assistências.
+        </p>
+        <h3>Despedida</h3>
+        <p>
+            Em março de 2015, Alex anunciou que faria seu jogo de despedida entre amigos no Allianz Parque, estádio do Palmeiras, no dia 28 de março. No dia da entrevista coletiva a respeito do jogo, Alex recebeu uma placa do Palmeiras, agradecendo por seus serviços. Repleto de ídolos históricos, o jogo foi dividido entre os times Palmeiras de 1999 e Amigos do Alex. O jogo foi 5–3 para o Palmeiras de 99, com Alex marcando dois gols.
+        </p>
+        <p>
+            Em maio do mesmo ano, o Cruzeiro confirmou que também realizaria partida de despedida de Alex do clube, no Mineirão, em 27 de junho. Na data da partida festiva, antes de entrar em campo, Alex foi homenageado pelo clube e eternizou a marca dos pés no Hall da Fama do Mineirão. Com a presença de vários ídolos celestes, a partida foi realizada entre os campeões da tríplice coroa (2003) e os ídolos eternos. Alex marcou um gol e os campeões da tríplice coroa venceram por 6–2.
+        </p>
+        <h5>Referências bibliográficas:</h5>
+        <p>
+            <a href="https://pt.wikipedia.org/wiki/Alexsandro_de_Souza">Wikipédia</a>
+            
+        </p>
+        <p>
+            <a href="https://www.terra.com.br/esportes/futebol/os-numeros-da-carreira-de-alex-999-jogos-412-gols-18-titulos-veja-todos,d26ac4ae95a44410VgnCLD2000000dc6eb0aRCRD.html">Terra</a>
+        </p>
+        <h5>Mais referências sobre "Alex"</h5>
+        <p>
+            <a href="https://www.ogol.com.br/historia/alex-o-craque-que-a-copa-do-mundo-perdeu/12012">O gol</a>
+
+        </p>
+        <p>
+           <a href="https://redeglobo.globo.com/rpc/bicho-do-parana/ultimas-noticias/noticia/a-trajetoria-de-vitorias-de-alex-de-souza-no-futebol.ghtml">Globo.com</a>
+        </p>
+        <p>
+            <a href="https://www.mg.superesportes.com.br/app/noticias/especiais/cruzeiro-100-anos/2020/12/25/cruzeiro-100-anos,3880709/segunda-chance-tornou-alex-idolo-historico-do-cruzeiro.shtml">Mg superesports</a>
+        </p>
+        <p>
+            <a href="https://imortaisdofutebol.com/craque-imortal-alex/">Imortais do futebol</a>
+        </p>
+
+      </body>
+</html>

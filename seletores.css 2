@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>1.exercício_css</title>
+
+        <link href="style.css" rel="stylesheet"
+    </head>
+<body>
+    <h1 class="destaque">Mensagens motivacionais:</h1>
+    <p class="destaque">
+        Transforme seus sonhos em metas para realizar. Com determinação, foco e persistência, você é capaz de conquistar tudo. <strong>T-U-D-O!</strong>
+    </p>
+    <p>
+        Cada passo dado em direção aos seus objetivos já é uma grande vitória. Celebre seu progresso e mantenha-se firme no caminho rumo ao seu sucesso.
+    </p>
+    <p>
+        Gostou do conteúdo?
+        Se quiser ver mais conteúdos iguais a este:
+        <a href="http://www.google.com">clique aqui!</a>
+    </p>
+    <div>
+        Visualize a realização dos seus sonhos, acredite nas suas capacidades e mantenha uma mentalidade positiva. 
+        <strong class="destaque">O poder de alcançar seus objetivos sempre residirá dentro de você.</strong>
+    </div>
+        
+        
+</body>
+</html>

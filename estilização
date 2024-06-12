@@ -1,0 +1,44 @@
+Exercicio CSS Zen Grden
+
+/* Color Theme swatches in Hex */
+/*
+.principal {color:#222CE0}
+.background {color:#94C9E1}
+.Fashion-3-hex {color:#48E0E0}
+.fashion-4-hex {color:#2BA7E0}
+.destaque {color:#4A81E0}
+*/
+
+html {
+    background:#94C9E1;
+    color:#222CE0;
+}
+
+
+
+Exercício estilização:
+
+html {
+    background: #fbfcfd;
+    color: #1f29c;
+    
+    font-size:18px;
+    font-family:helvetica, sans-serif;
+}
+
+p{
+    text-ident: 1em;
+}
+
+h1,h2,h3 {
+    text-align:center;
+}
+
+h1{font-size: 1.8rem;}
+h2{font-size: 1.4rem;}
+h3{font-size: 1.2rem;}
+
+.summary {text-align: center;}
+.main p {line-height: 1.5;}
+
+.abbr {font-variant: small-caps;}

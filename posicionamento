@@ -1,0 +1,18 @@
+.page-wrapper {
+    position: relative
+}
+
+.explanation {
+    width: 60%;
+    border-right: #1f295c solid 1px;
+    padding-right: 2%;
+
+}
+
+#design-selection {
+    position: absolute;
+    top: 560px;
+    width: 30%;
+    border-left: 1px;
+    padding-left: 50% ;
+}

@@ -1,0 +1,42 @@
+.supporting footer {
+        display:flex;
+        justify-content: space-evenly;
+    }
+
+    .benefits {
+        display: flex;
+        flex-direction: row-reverse;
+        border-bottom:#1f295c solid 1px;
+        border-top:#1f295c solid 1px;
+    }
+
+    .benefits p {
+        flex-basis: 70%;
+    }
+
+    .benefits h3 {
+        align-self: center;
+        flex-basis: 30%;
+    }
+
+    .participation {
+        display: flex;
+        flex-wrap: wrap;
+        border-top:#1f295c solid 1px;
+    }
+
+    .participation h3 {
+        flex-basis: 50%;
+        align-self: center;
+    }
+    
+    .participation p {
+        flex-basis: 50%;
+        flex-wrap: wrap;
+    }
+    .benefits {
+        display: flex;
+        border-bottom:#1f295c solid
+        border-top:#1f295c solid 1px;
+    }
+    

@@ -1,0 +1,126 @@
+/* definição de fonte para o texto*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: unset;
+}
+
+/* fonte dos parágrafos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* paleta de cores */
+:root {
+    --color-principal: #3437db; 
+    --color-secundaria: #2ecc71; 
+    --color-destaque: #19cf28; 
+    
+}
+
+/*  configuração do menu */
+nav {
+    background-color: var(--color-principal);
+    position: fixed;
+    width: 100%;
+    top: 0;
+   
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul li {
+    flex: 1;
+}
+
+nav ul li a {
+    display: table;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+nav ul li a:hover {
+    background-color: var(--color-secundaria);
+}
+
+/* Footer styles */
+footer {
+    background-color: var(--color-destaque);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li {
+    margin: 0 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: underline;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section styles */
+section {
+    margin: 80px 20px 20px 20px;
+}
+
+header {
+    text-align: center;
+    padding: 70px;
+}
+
+header img {
+    margin: 10px 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    header {
+        text-align: left;
+    }
+
+    header h1 {
+        margin-top: 20px;
+    }
+
+    header img {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) {
+    nav ul {
+        flex-direction: row;
+    }
+
+    section {
+        max-width: 800px;
+        margin: 80px auto 20px auto; 
+    }
+}

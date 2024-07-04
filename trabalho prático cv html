@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Lucas Rodrigues de Faria Costa</title>
+    <link href="style.css" rel="stylesheet"/>
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#apresentacao">Apresentação</a></li>
+            <li><a href="#educacao">Educação</a></li>
+            <li><a href="#certificacoes">Certificações</a></li>
+            <li><a href="#experiencia">Experiência</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
+            <li><a href="#rodape">Rodapé</a></li>
+        </ul>
+    </nav>
+
+    <header id="apresentacao">
+        <h1> Lucas Rodrigues de Faria Costa</h1>
+        <img src="1ec7c2c8-4226-442f-b267-8c5177b4df7f.jpeg" alt="Foto de Seu Nome" width="20%"/>
+		<h2>Endereço:</h2>
+		<p>Logradouro: Avenida do Rosário;</p>
+		<p> Número: 300; </p>
+		<p>Bairro: Vila Gontijo;</p>
+		<p>Cidade: Bom Despacho;</p>
+		<p>Estado: Minas Gerais.</p>
+		<h2>Apresentação:</h2>
+		<p>Eu, Lucas Rodrigues de Faria Costa, tenho trinta e quatro anos. Começei a trabalhar aos meus quatorze anos de idade, como aprendiz de eletricista. Nesta profissão atuei por cerca de 14 anos, e atualmente faço alguns trabalhos extras na área.</p>
+		<p>Trabalhei por seis meses no SESC (Serviço Social do Comércio), na unidade de Bom Despacho, como técnico em manutenção predial.</p>
+		<p>No ano de 2020 começei a trabalhar na COPASA (Companhia de Saneamento de Minas Gerais), por meio de concurso público, onde atuei por um ano e seis meses. Atuei como servente de saneamento básico. Sai deste cargo para assumir outro cargo Público.</p>
+		<p>Atualmente trabalho como Guarda Civil Municipal na cidade de Nova serrana, Minas Gerais. Assumi este cargo na data 21/02/2022. Neste cargo desempenho funções de segurança pública, fiscalização de trânsito, etc.</p>
+		<p>Sou formado em Técnico de edificações, Técnico de administração, Graduado em Gestão Comercial, Pós-graduando em Engenharia de Tráfego e Segurança Viária. Possuo alguns cursos na área de imformática como: manutenção de computadores, word/excel básico. Possuo cursos profissionalizante em elétrica residencial e industrial.</p>
+		<p>Busco crescer profissionalmente, fazendo curso e aprimorando meus conhecimentos. O meu objetivo profissional é contribuir com inovações, criar procedimentos , técnicas que aprimore tecnologicamente as áreas nas quais já trabalhei , e com isso ter  reconhecimento profissional e financeiro que retribua os meus esforços e dé uma vida estável aos meus filhos.</p>
+    </header>
+
+    <section id="educacao">
+        <h2>Educação</h2>
+        <div class="instituicao">
+            <h3>Alis Faculdade de Bom Despacho:</h3>
+            <p>Técnico em edificações</p>
+            <p>Ano de formatura: 16 de Março de 2016</p>
+        </div>
+        <div class="instituicao">
+            <h3>Universidade Federal de Viçosa:</h3>
+            <p>Eletricista Industrial</p>
+            <p>Ano de formatura: 26/09/2020</p>
+        </div>
+        <div class="instituicao">
+            <h3>Centro Universitário Internacional:</h3>
+            <p>Tecnólogo em Gestão Comercial </p>
+            <p>Ano de formatura: 09 de julho de 2019 </p>
+        </div>
+        
+        <div class="instituicao">
+            <h3>Focus Faculdade:</h3>
+            <p>Pós-Graduação em Engenharia de Tráfego e Segurança Viária</p>
+            <p>Data de conclusão: 30/11/2024</p>
+        </div>
+        <div class="instituicao">
+            <h3>Projeto Desenvolve:</h3>
+            <p>Desenvolvedor de Software</p>
+            <p>Data de conclusão: 35/03/2026</p>
+        </div>
+        <div class="instituicao">
+            <h3>Centro Educacional de Educação tecnológica Paula Souza:</h3>
+            <p>Técnico em administração</p>
+            <p>Data de conclusão: 15 de julho de 2011</p>
+        </div>
+        
+    </section>
+
+    <section id="certificacoes">
+        <h2>Certificações</h2>
+        <div class="certificacao">
+            <h3>NR- 10:</h3>
+            <p>40 horas</p>
+            <p>Ano de realização: 2020</p>
+        </div>
+        <div class="certificacao">
+            <h3>Montagem e manutenção de computadores:</h3>
+            <p>48 horas</p>
+            <p>Ano de realização: 2011</p>
+        </div>
+    </section>
+
+    <section id="experiencia">
+        <h2>Experiência</h2>
+        <div class="experiencia">
+            <h3>Eletricista:</h3>
+            <p>Autônomo</p>
+            <p>Período de Emprego: 17/02/2004 a 22/10/2018</p>
+            <p>Instalações eletrícas residencial, industrial e rural</p>
+        </div>
+        <div class="experiencia">
+            <h3>Técnico em manutenção predial:</h3>
+            <p>Sesc</p>
+            <p>Período de Emprego: 05/01/2017 a 05/07/2017</p>
+            <p>manutenção em instalações eletrícas, hidraúlicas, refrigeração.</p>
+        </div>
+        <div class="experiencia">
+            <h3>Serviços gerais:</h3>
+            <p>Indumec</p>
+            <p>Período de Emprego: 01/09/2010 a 01/02/2011</p>
+            <p>Corte e montagem de móveis tubulares</p>
+        </div>
+        <div class="experiencia">
+            <h3>Auxiliar de saneamento básico:</h3>
+            <p>COPASA</p>
+            <p>Período de Emprego: 01/08/2020 a 01/06/2021</p>
+            <p>Servente de esgoto</p>
+            <div class="experiencia">
+                <h3>Guarda Municipal:</h3>
+                <p>Nova serrana</p>
+                <p>Período de Emprego: 21/02/2022 </p>
+                <p>GCM 3ª classe</p>
+            </div>
+        </div>
+        
+        
+    </section>
+
+    <section id="habilidades">
+        <h2>Habilidades Técnicas</h2>
+        <ul>
+            <li>manutenção em computadores</li>
+            <li>instalações elétricas</li>
+            <li>elaboração e execução de projetos de construção civil</li>
+            <li>operador de segurança pública</li>
+            <li>scratch</li>
+            <li>elementos de interface</li>
+            <li>programação em linux</li>
+            <li>programação básica de web</li>
+            <li>instalações hidraúlicas</li>
+            <li>gerenciamento de pessoas</li>
+
+        </ul>
+    </section>
+
+    <footer id="rodape">
+        <ul>
+            <li><a href="https://instagram.com/lucasrodriguesdefariacosta" target="_blank">instagram</a></li>
+            <li><a href="https://facebook.com/Lucas Rodrigues" target="_blank">facebook</a></li>
+            <li><a href="https://github.com/costa-rodrigues/desenvolve-introducao-web." target="_blank">GitHub</a></li>
+            
+        </ul>
+        <p>&copy; Ano da Última Alteração: 04/07/2024</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html>

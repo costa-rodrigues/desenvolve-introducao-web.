@@ -1,0 +1,198 @@
+/*HTML*/
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História do Futebol</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="bg-dark text-white p-3">
+        <div class="container">
+            <h1 class="m-0">História do Futebol</h1>
+            <div class="toggle-switch">
+                <input type="checkbox" id="darkModeSwitch">
+                <label for="darkModeSwitch"></label>
+            </div>
+        </div>
+    </header>
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Futebol</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="#historia">História</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#jogadores">Jogadores Icônicos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#eventos">Eventos Importantes</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <main>
+        <div class="parallax">História do Futebol</div>
+        <section id="historia" class="p-5 bg-light">
+            <div class="container">
+                <h2 class="mb-4">A História do Futebol</h2>
+                <h5>Surgido como uma comemoração inglesa pós-guerra, o futebol chegou ao Brasil, no final do século XIX, através de Charles Miller, um jovem filho de ingleses.</h5>
+                <p>"O futebol, esporte que é considerado a paixão nacional e, sem dúvidas, o mais popular do mundo, começou a ser praticado na Inglaterra, no século XVII. À época, o esporte não tinha o formato que tem hoje e tampouco era chamado de “futebol”. Isso só aconteceu décadas depois, com a criação das regras."</p>
+                <p>"Hoje o futebol movimenta um mercado financeiro bilionário, proporciona eventos globais, transforma atletas de todas as origens em ídolos internacionais e utiliza da mais alta tecnologia em transmissões e equipamentos esportivos. No entanto, a história do futebol não começou assim. O esporte trilhou uma longa jornada, sem nenhum tipo de glamour e com poucos holofotes, até chegar a esse patamar."</p>
+                
+                
+            </div>
+        </section>
+        
+        <section id="jogadores" class="p-5">
+            <div class="container">
+                <h2 class="mb-4">Jogadores Icônicos</h2>
+                <h4>Revista inglesa elege os 50 melhores jogadores da história com Messi em 1º e Pelé em 4º; veja lista</h4>
+                <p>Uma das principais revistas do mundo, a britânica Four Four Two divulgou nesta segunda-feira a lista dos 50 melhores jogadores da História. O argentino Lionel Messi lidera o ranking, que contém 11 atletas brasileiros.</p>
+                <p>Para escolher os jogadores, a revista se baseou na influência dos craques em sua época em particular. Além de selecionar os mais memoráveis e os que mais impressionaram com seu talento e suas conquistas.</p>
+                <p>O Brasil, considerado o país do futebol, possui 11 nomes na lista. O melhor colocado é o Pelé, que está em 4°. Ronaldo Fenômeno, em 10°, completa o Top-10. Além deles, Zico, Garrincha, Romário, Ronaldinho, Carlos Alberto Torres, Didi, Sócrates, Rivellino, Nilton Santos completam o ranking dos brasileiros no top-50.</p>
+                <p>1-Lionel Messi</p>
+                <p>2-Diego Maradona</p>
+                <P>3-Cristiano Ronaldo</P>
+                <p>4-Pelé</p>
+                <P>5-Zinedine ZIdane</P>
+                <P>6-Johan Cruyff</P>
+                 <p>7-George Best</p>
+                 <p>8-Franz Beckenbauer</p>
+                 <p>9-Ferenc Puskas</p>  
+                 <p>10-Ronaldo Nazário</p>
+                 <p>11-Gerd Muller</p>
+                 <p>12-Alfredo Di Stefano</p>
+                 <p>13-Michel Platini</p>
+                 <p>14-Zico</p>
+                 <p>15-Garrincha</p>
+                 <p>16-Bobby Charlton</p>
+                 <p>17-Paolo Maldini</p>
+                 <p>18-Romário</p>
+                 <p>19-Giuseppe Meazza</p>
+                 <p>20-Andrés Iniesta</p>
+                 <p>21-Franco Baresi</p>
+                 <p>22-Marco van Basten</p>
+                 <p>23-Eusébio</p>
+                 <p>24-Xavi</p>
+                 <p>25-Carlos Alberto Torres</p>
+                 <p>26-Ronaldinho</p>
+                 <p>27-Lothar Matthäus</p>
+                 <p>28-Ruud Gullit</p>
+                 <p>29-Lev Yashin</p>
+                 <p>30-Didi</p>
+                 <p>31-Fabio Cannavaro</p>
+                 <p>32-Sócrates</p>
+                 <p>33-Kenny Dalglish</p>
+                 <p>34-Denis Law</p>
+                 <p>35-Rivellino</p>
+                 <p>36-Gianni Rivera</p>
+                 <p>37-Luis Suarez</p>
+                 <p>38-Ryan Giggs</p>
+                 <p>39-Bobby Moore</p>
+                 <p>40-Jairzinho</p>
+                 <p>41-Sandro Mazzola</p>
+                 <p>42-Rivelino</p>
+                 <p>43-Franco Causio</p>
+                 <p>44-Romário</p>
+                 <p>45-Falcao</p>
+                 <p>46-Clodoaldo</p>
+                 <p>47-Tostao</p>
+                 <p>48-Gerson</p>
+                 <p>49-Nilton Santos</p>
+                 <p>50-Zizinho</p>
+            </div>
+        </section>
+        
+        <section id="eventos" class="p-5 bg-light">
+            <div class="container">
+                <h2 class="mb-4">Eventos Importantes</h2>
+                <h4>Os 10 maiores eventos do futebol mundial: da Copa do Mundo aos Jogos Olímpicos</h4>
+                <p>Quando se fala em eventos esportivos, é difícil não pensar no futebol, o esporte mais popular do planeta. As competições internacionais atraem milhões de espectadores e geram bilionárias receitas para organizadores, patrocinadores e clubes. Com tantas competições ao redor do mundo, algumas se destacam e são aguardadas com ansiedade pelos fãs e amantes do esporte.</p>
+                <ul>
+                    <li><strong>Copa do Mundo:</strong> Realizada a cada quatro anos, a Copa do Mundo é, sem dúvida, o maior evento do futebol mundial. Organizada pela FIFA, a competição reúne seleções de todos os continentes, que disputam a taça mais cobiçada do esporte.</li>
+                    <li><strong>UEFA Champions League:</strong> É a principal competição de clubes do futebol europeu. Reúne as melhores equipes do continente e é conhecida por seu alto nível técnico e pela presença dos maiores craques do esporte.</li>
+                    <li><strong>Jogos Olímpicos:</strong> O torneio de futebol dos Jogos Olímpicos é um dos eventos mais tradicionais do esporte. As seleções participantes são formadas por jogadores sub-23, com a possibilidade de incluir até três atletas acima dessa idade.</li>
+                    <li><strong>Campeonato Brasileiro:</strong> O Campeonato Brasileiro é a principal competição de clubes do Brasil. Disputado anualmente, o torneio é conhecido por sua competitividade e por revelar grandes talentos do futebol mundial.</li>
+                    <li><strong>Copa Libertadores da América:</strong> É a principal competição de clubes da América do Sul. Organizada pela CONMEBOL, a Libertadores é marcada por sua intensidade e pela paixão dos torcedores sul-americanos.</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+    
+    <footer class="footer bg-dark text-white p-3">
+        <div class="container">
+            <p class="m-0">&copy; Lucas Rodrigues de Faria costa.</p>
+        </div>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Dark mode toggle
+        const toggleSwitch = document.getElementById('darkModeSwitch');
+        toggleSwitch.addEventListener('change', () => {
+            document.body.classList.toggle('dark-mode');
+        });
+    </script>
+</body>
+</html>
+
+/*CSS*/
+/*modo escuro */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .bg-light {
+    background-color: #1f1f1f !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.75) !important;
+}
+
+body.dark-mode .bg-dark {
+    background-color: #000000 !important;
+}
+
+/* Parallax Effect */
+.parallax {
+    background-image: url('path-to-image.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Flexbox e Containers */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 0;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-nav .nav-item {
+        margin: 0 0.5rem;
+    }
+}
+
